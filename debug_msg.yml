@@ -6,4 +6,4 @@
     - name: show msg 1
       debug: msg="{{ var1 }}"
     - name: show msg 2
-      debug: msg2="{{ var1 }}"
+      debug: msg="{{ var1 }}"
